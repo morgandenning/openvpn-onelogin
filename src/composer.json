@@ -1,0 +1,11 @@
+{
+    "name": "morgandenning/openvpn-onelogin-auth",
+    "autoload": {
+        "psr-4": {
+            "OneVPN\\": "./OneVPN/"
+        }
+    },
+    "require" : {
+        "guzzlehttp/guzzle" : "~6.0"
+    }
+}

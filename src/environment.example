@@ -1,0 +1,8 @@
+; OpenVPN OneLogin Config File
+
+[onelogin]
+client_id =
+client_secret =
+app_id =
+subdomain =
+onelogin_role_id = 
